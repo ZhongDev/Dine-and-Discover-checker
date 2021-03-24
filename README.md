@@ -1,6 +1,7 @@
 # Dine and Discover checker
 
 Script to continuously check a municipality's eligibility for Dine and Discover voucher (NSW, Australia 2021)
+
 The script will check with ServiceNSW's website every five minutes to look for changes.
 
 # Installation
