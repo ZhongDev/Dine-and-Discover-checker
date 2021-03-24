@@ -1,0 +1,25 @@
+{
+  "name": "dine-and-discover-checker",
+  "version": "1.0.0",
+  "description": "Script to check a municipality's eligibility for Dine and Discover voucher",
+  "main": "checkdinev.js",
+  "scripts": {
+    "test": "node checkdinev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhongDev/Dine-and-Discover-checker.git"
+  },
+  "author": "ZhongDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhongDev/Dine-and-Discover-checker/issues"
+  },
+  "homepage": "https://github.com/ZhongDev/Dine-and-Discover-checker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "infinite-loop": "^0.2.2",
+    "superagent": "^6.1.0"
+  }
+}
