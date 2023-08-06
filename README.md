@@ -4,6 +4,10 @@ Script to continuously check a municipality's eligibility for Dine and Discover 
 
 The script will check with ServiceNSW's website every five minutes to look for changes.
 
+## :warning: Deprecated :warning:
+
+This repository is no longer being worked on or supported and has been archived. The code and documentation in this repository are provided as-is, and no further updates or bug fixes will be made. Please use this repository for reference purposes only.
+
 # Installation
 
 You'll need to first install [nodeJS](https://nodejs.org/en/download/ "Click here to goto the nodeJS download page") and [git](https://git-scm.com/downloads "Click here to goto the git download page") on the computer you plan to use this on.</br>
